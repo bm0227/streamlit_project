@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 from typing import List
 import requests, json
-from requests_toolbelt.multipart.encoder import MultipartEncoder
+#from requests_toolbelt.multipart.encoder import MultipartEncoder
 import io
 import base64
 import time
